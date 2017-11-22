@@ -1,5 +1,3 @@
-$(document).ready(function (){
-});
 
 
 var searchRepositories = () => {
@@ -10,3 +8,8 @@ var searchRepositories = () => {
       displayError()
     })
 }
+
+
+
+$(document).ready(function (){
+});
